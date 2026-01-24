@@ -216,12 +216,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 **Aprajit Sinha**
@@ -264,3 +258,4 @@ If you encounter any issues or have questions:
 **⭐ If you find this project useful, please consider giving it a star!**
 
 *Together, we can save lives through efficient blood donation management.*
+
